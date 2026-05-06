@@ -149,7 +149,7 @@ export default function App() {
                 Former VP of Strategic Customers EMEA at Oracle. 14 years at Microsoft in HQ in Seattle and in EMEA executive teams. Former CCO at EVS Broadcasting Equipment. Former McKinsey Associate. Harvard MBA.
               </TeamCard>
               <TeamCard name="Christian Sommer" role="Senior Legal Advisor & Founding Partner" size="sm" accent="cyan">
-                Expert in technology law, regulatory compliance, and strategic partnerships with extensive experience in infrastructure and AI governance across European markets.
+                More than 25 years in TMT. Former director of Vantage Towers. Former senior director of Vodafone. Several times noticed GC100 Germany in Legal500. English, German and Czech bar.
               </TeamCard>
             </div>
           </div>
