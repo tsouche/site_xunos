@@ -134,19 +134,22 @@ export default function App() {
             <TeamCard name="Thierry Souche" role="Chief Technology & Product Officer & Co-Founder" size="lg">
               Former CTO of OVHcloud and Group CIO of Orange. Tech and product AI pioneer with deep expertise in designing &amp; building hyperscale cloud platforms and critical global infrastructure, having managed 3 DC constructions and operated 43 datacenters.
             </TeamCard>
-            <TeamCard name="Ervan Pouliquen" role="Chief Commercial Officer" size="lg">
-              Former VP of Strategic Customers EMEA at Oracle. 14 years at Microsoft in HQ in Seattle and in EMEA executive teams. Former CCO at EVS Broadcasting Equipment. Former McKinsey Associate. Harvard MBA.
+            <TeamCard name="Yves Maitre" role="Chief Business Development Officer & Co-Founder" size="lg">
+              37 years in technology. Former CEO of HTC and EVP at Orange. Director and operating partner at venture capital Jolt. BFMTV expert with rich global network.
             </TeamCard>
           </div>
 
-          {/* Founders row */}
+          {/* Senior advisors row */}
           <div className="bg-gray-800 rounded-xl p-8 shadow-lg border border-gray-700">
-            <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               <TeamCard name="Vivek Badrinath" role="Shareholder & Co-Founder" size="sm" accent="cyan">
                 32 years in telecoms, digital and infrastructure. GSMA CEO. Former CEO of Vantage Towers (IPO). Former executive committee member at Vodafone, Accor, and Orange.
               </TeamCard>
-              <TeamCard name="Yves Maitre" role="Director & Co-Founder" size="sm" accent="cyan">
-                37 years in technology. Former CEO of HTC and EVP at Orange. Director and operating partner at venture capital Jolt. BFMTV expert with rich global network.
+              <TeamCard name="Ervan Pouliquen" role="Senior Commercial Advisor & Founding Partner" size="sm" accent="cyan">
+                Former VP of Strategic Customers EMEA at Oracle. 14 years at Microsoft in HQ in Seattle and in EMEA executive teams. Former CCO at EVS Broadcasting Equipment. Former McKinsey Associate. Harvard MBA.
+              </TeamCard>
+              <TeamCard name="Christian Sommer" role="Senior Legal Advisor & Founding Partner" size="sm" accent="cyan">
+                Expert in technology law, regulatory compliance, and strategic partnerships with extensive experience in infrastructure and AI governance across European markets.
               </TeamCard>
             </div>
           </div>
