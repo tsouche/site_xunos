@@ -40,6 +40,26 @@ export default function App() {
               Advising, Sourcing, Building and Operating AI Gigafactories and Cloud Solutions<br />
               tailored to the critical challenges of nations and industries.
             </p>
+
+            {/* Press Release Banner */}
+            <div className="mb-8">
+              <a
+                href="/press-release-applied-digital-2026.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-3 px-6 py-3 bg-amber-400/10 border border-amber-400/60 rounded-lg hover:bg-amber-400/20 transition-all group backdrop-blur-sm shadow-lg"
+              >
+                <span className="text-amber-400 text-xs font-bold uppercase tracking-widest whitespace-nowrap">Press Release</span>
+                <span className="w-px h-4 bg-amber-400/40 flex-shrink-0" />
+                <span className="text-amber-100 font-bold text-base group-hover:text-amber-300 transition-colors text-left">
+                  June 2nd 2026 — Xunos announces equity investment from Applied Digital
+                </span>
+                <svg className="w-4 h-4 text-amber-400 flex-shrink-0 opacity-70 group-hover:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
+              </a>
+            </div>
+
             <div className="flex flex-wrap justify-center gap-4">
               <a
                 href="#services"
