@@ -165,7 +165,7 @@ export default function App() {
               <TeamCard name="Vivek Badrinath" role="Shareholder & Co-Founder" size="sm" accent="cyan">
                 32 years in telecoms, digital and infrastructure. GSMA CEO. Former CEO of Vantage Towers (IPO). Former executive committee member at Vodafone, Accor, and Orange.
               </TeamCard>
-              <TeamCard name="Thierry Souche" role="Executive advisor to the CEO & Co-Founder" size="sm" accent="cyan">
+              <TeamCard name="Thierry Souche" role="Executive advisor to the CEO/CTIO & Co-Founder" size="sm" accent="cyan">
                 Former CTO of OVHcloud and Group CIO of Orange. Tech and product AI pioneer with deep expertise in designing &amp; building hyperscale cloud platforms and critical global infrastructure, having managed 3 DC constructions and operated 43 datacenters.
               </TeamCard>
               <TeamCard name="Ervan Pouliquen" role="Senior Commercial Advisor & Founding Partner" size="sm" accent="cyan">
