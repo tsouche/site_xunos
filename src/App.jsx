@@ -152,7 +152,7 @@ export default function App() {
               Former MD BCG Digital Ventures, ExCo member Carrefour, Edenred and Global Head of Natixis Tech Sector. Serial venture builder with a global track record in launching and scaling multi-billion euro digital businesses.
             </TeamCard>
             <TeamCard name="Incoming" role="Chief Technology & Information Officer" size="lg">
-              25+ years spanning telecom, cloud, AI, national security. Pioneer in digital transformation and cybersecurity, bridging cutting-edge technology with large-scale infrastructure operations. Former Digital & Cloud ClO of Orange, former Ex-CIO of the French Ministry of Defense, former Ex-CIO of the French Prime Minister.
+              25+ years spanning cloud, AI, national cybersecurity. Pioneer in digital transformation, bridging cutting-edge technology with large-scale infrastructure operations. Former SVP Digital & Cloud of Orange, former CIO of the French Ministry of Defense, former CIO of the French Prime Minister.
             </TeamCard>
             <TeamCard name="Yves Maitre" role="Chief Business Development Officer & Co-Founder" size="lg">
               37 years in technology. Former CEO of HTC and EVP at Orange. Director and operating partner at venture capital Jolt. BFMTV expert with rich global network.
@@ -165,7 +165,7 @@ export default function App() {
               <TeamCard name="Vivek Badrinath" role="Shareholder & Co-Founder" size="sm" accent="cyan">
                 32 years in telecoms, digital and infrastructure. GSMA CEO. Former CEO of Vantage Towers (IPO). Former executive committee member at Vodafone, Accor, and Orange.
               </TeamCard>
-              <TeamCard name="Thierry Souche" role="Executive advisor to the CEO & Co-Founder" size="lg">
+              <TeamCard name="Thierry Souche" role="Executive advisor to the CEO & Co-Founder" size="sm" accent="cyan">
                 Former CTO of OVHcloud and Group CIO of Orange. Tech and product AI pioneer with deep expertise in designing &amp; building hyperscale cloud platforms and critical global infrastructure, having managed 3 DC constructions and operated 43 datacenters.
               </TeamCard>
               <TeamCard name="Ervan Pouliquen" role="Senior Commercial Advisor & Founding Partner" size="sm" accent="cyan">
